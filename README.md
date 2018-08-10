@@ -1,0 +1,2 @@
+# AndroidPermission
+这是一个RxPremission的封装使用类
