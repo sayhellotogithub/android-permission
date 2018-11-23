@@ -19,5 +19,6 @@ android {
 }
 
 dependencies {
+    //implementation 'com.github.sayhellotogithub:android-permission:1.0.0'
     api project(":android-permission")
 }
