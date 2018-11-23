@@ -1,4 +1,4 @@
-package com.iblogstreet.permissionlib;
+package com.iblogstreet.androidpermission;
 
 import org.junit.Test;
 
